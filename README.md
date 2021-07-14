@@ -30,6 +30,8 @@ This repository is a submission for the Getting and Cleaning Data course project
   
   RunAnalysis.
   
-    This is the final product.
+  CleanData & CleanData.txt.
   
+    This is the final product.
+
   
