@@ -24,6 +24,10 @@ This repository is a submission for the Getting and Cleaning Data course project
   
   YTrain.
   
+  XData.
+  
+  YData.
+  
   RunAnalysis.
   
     This is the final product.
