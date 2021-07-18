@@ -5,6 +5,10 @@ The run_analysis.R script all the steps required to clean the data and produce t
   Download the data into folder "UCI HAR Dataset".
   Assign filename "GetdataUCIHAR".
   
+  Make sure that data.table and dplyr are loaded.
+  
+  
+  
 **Assign and name variables.**
 
   ActivityLabels:  6 rows, 2 columns.
